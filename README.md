@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://githubusercontent.com)
 <!--
 **Rand0miz/Rand0miz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
