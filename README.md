@@ -92,14 +92,14 @@ answer, and prove the needle survived.
 ## `$ ls -la ~/projects`
 
 ```console
-drwxr-xr-x  sprucekit    context compiler · 422 KB in, 4 blocks out, needle intact
+drwxr-xr-x  spruce    context compiler · 422 KB in, 4 blocks out, needle intact
 drwxr-xr-x  Valkyrie     API diven local file storage and retrival solution.
 -rw-r--r--  .plan        sub-1% compression without losing the answer span
 ```
 
 <div align="center">
-  <a href="https://github.com/Rand0miz/sprucekit">
-    <img src="https://rand0miz-readme-stats.vercel.app/api/pin/?username=Rand0miz&repo=sprucekit&hide_border=true&bg_color=010409&title_color=3fb950&icon_color=d29922&text_color=adbac7" alt="sprucekit" />
+  <a href="https://github.com/Rand0miz/spruce">
+    <img src="https://rand0miz-readme-stats.vercel.app/api/pin/?username=Rand0miz&repo=spruce&hide_border=true&bg_color=010409&title_color=3fb950&icon_color=d29922&text_color=adbac7" alt="spruce" />
   </a>
   <a href="https://github.com/Rand0miz/Valkyrie">
     <img src="https://rand0miz-readme-stats.vercel.app/api/pin/?username=Rand0miz&repo=Valkyrie&hide_border=true&bg_color=010409&title_color=3fb950&icon_color=d29922&text_color=adbac7" alt="Valkyrie" />
