@@ -75,15 +75,6 @@ answer, and prove the needle survived.
 ## `$ git log --stat --author=Rand0miz`
 
 <div align="center">
-  <img height="165" src="https://rand0miz-readme-stats.vercel.app/api?username=Rand0miz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=010409&title_color=3fb950&icon_color=d29922&text_color=adbac7&ring_color=3fb950&custom_title=git%20log%20--stat" alt="GitHub stats" />
-  <img height="165" src="https://rand0miz-readme-stats.vercel.app/api/top-langs/?username=Rand0miz&layout=compact&langs_count=8&hide_border=true&bg_color=010409&title_color=3fb950&text_color=adbac7&custom_title=cloc%20~%2F" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://rand0miz-profile-trophy.vercel.app/?username=Rand0miz&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Rand0miz&hide_border=true&background=010409&stroke=21262d&ring=3fb950&fire=d29922&currStreakLabel=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=768390&dates=768390" alt="Streak" />
 </div>
 
@@ -98,12 +89,17 @@ drwxr-xr-x  Valkyrie     API diven local file storage and retrival solution.
 ```
 
 <div align="center">
-  <a href="https://github.com/Rand0miz/spruce">
-    <img src="https://rand0miz-readme-stats.vercel.app/api/pin/?username=Rand0miz&repo=spruce&hide_border=true&bg_color=010409&title_color=3fb950&icon_color=d29922&text_color=adbac7" alt="spruce" />
-  </a>
-  <a href="https://github.com/Rand0miz/Valkyrie">
-    <img src="https://rand0miz-readme-stats.vercel.app/api/pin/?username=Rand0miz&repo=Valkyrie&hide_border=true&bg_color=010409&title_color=3fb950&icon_color=d29922&text_color=adbac7" alt="Valkyrie" />
-  </a>
+  <a href="https://github.com/Rand0miz/spruce"><img src="https://img.shields.io/badge/repo-spruce-3fb950?style=flat-square&labelColor=010409&logo=github&logoColor=3fb950" alt="spruce" /></a>
+  <img src="https://img.shields.io/github/languages/top/Rand0miz/spruce?style=flat-square&labelColor=010409&color=d29922" alt="spruce top language" />
+  <img src="https://img.shields.io/github/stars/Rand0miz/spruce?style=flat-square&labelColor=010409&color=768390" alt="spruce stars" />
+  <img src="https://img.shields.io/github/last-commit/Rand0miz/spruce?style=flat-square&labelColor=010409&color=768390&label=last%20push" alt="spruce last commit" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Rand0miz/Valkyrie"><img src="https://img.shields.io/badge/repo-Valkyrie-3fb950?style=flat-square&labelColor=010409&logo=github&logoColor=3fb950" alt="Valkyrie" /></a>
+  <img src="https://img.shields.io/github/languages/top/Rand0miz/Valkyrie?style=flat-square&labelColor=010409&color=d29922" alt="Valkyrie top language" />
+  <img src="https://img.shields.io/github/stars/Rand0miz/Valkyrie?style=flat-square&labelColor=010409&color=768390" alt="Valkyrie stars" />
+  <img src="https://img.shields.io/github/last-commit/Rand0miz/Valkyrie?style=flat-square&labelColor=010409&color=768390&label=last%20push" alt="Valkyrie last commit" />
 </div>
 
 <br>
