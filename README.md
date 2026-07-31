@@ -34,7 +34,11 @@ larger than the window, score it with the model's own attention, emit only the b
 answer, and prove the needle survived.
 
 <div align="center">
-  <img src="assets/pipeline.svg" width="100%" alt="Context compiler data path: 422 KB document to 4 blocks to model" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rand0miz/Rand0miz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rand0miz/Rand0miz/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Rand0miz/Rand0miz/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution graph snake animation" />
+  </picture>
 </div>
 
 <br>
