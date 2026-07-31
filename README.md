@@ -1,9 +1,3 @@
-<!--
-  GitHub profile README for @Rand0miz — variant 2 (terminal / phosphor)
-  Repo must be named Rand0miz/Rand0miz with this file at the root.
-  See SETUP.md before pushing.
--->
-
 <div align="center">
   <img src="assets/boot.svg" width="100%" alt="myles@spruce — boot log" />
 </div>
@@ -89,7 +83,7 @@ answer, and prove the needle survived.
 
 ```console
 drwxr-xr-x  sprucekit    context compiler · 422 KB in, 4 blocks out, needle intact
-drwxr-xr-x  Valkyrie     TODO: one line — what it is and why it exists
+drwxr-xr-x  Valkyrie     API diven local file storage and retrival solution.
 -rw-r--r--  .plan        sub-1% compression without losing the answer span
 ```
 
